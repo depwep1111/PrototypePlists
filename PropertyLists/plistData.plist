@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   plistData.plist
+   PropertyLists
+
+   Created by tran trung thanh on 5/12/17.
+   Copyright (c) 2017 tran trung thanh. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>Inverse Color</key>
+        <false/>
+        <key>Red</key>
+        <real>0.3</real>
+        <key>Green</key>
+        <real>0</real>
+        <key>Blue</key>
+        <real>0.3</real>
+        <key>Pies</key>
+        <array>
+            <string>Cherry</string>
+            <string>Apple</string>
+            <string>French Silk</string>
+            <string>Coconut Cream</string>
+            <string>Blueberry</string>
+            <string>Boston Cream</string>
+        </array>
+    </dict>
+</plist>

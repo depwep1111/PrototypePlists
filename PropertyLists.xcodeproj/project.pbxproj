@@ -14,6 +14,7 @@
 		6F0494911EC57AB3000CB379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F04948F1EC57AB3000CB379 /* LaunchScreen.storyboard */; };
 		6F04949C1EC57AB3000CB379 /* PropertyListsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F04949B1EC57AB3000CB379 /* PropertyListsTests.swift */; };
 		6F0494A71EC57AB3000CB379 /* PropertyListsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F0494A61EC57AB3000CB379 /* PropertyListsUITests.swift */; };
+		6F0494B51EC57AB3000CB379 /* plistData.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6F0494B41EC57AB3000CB379 /* plistData.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		6F0494A21EC57AB3000CB379 /* PropertyListsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PropertyListsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F0494A61EC57AB3000CB379 /* PropertyListsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PropertyListsUITests.swift; sourceTree = "<group>"; };
 		6F0494A81EC57AB3000CB379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F0494B41EC57AB3000CB379 /* plistData.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = plistData.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				6F0494861EC57AB3000CB379 /* AppDelegate.swift */,
 				6F0494881EC57AB3000CB379 /* ViewController.swift */,
+				6F0494B41EC57AB3000CB379 /* plistData.plist */,
 				6F04948A1EC57AB3000CB379 /* Main.storyboard */,
 				6F04948D1EC57AB3000CB379 /* Assets.xcassets */,
 				6F04948F1EC57AB3000CB379 /* LaunchScreen.storyboard */,
@@ -235,6 +238,7 @@
 				6F0494911EC57AB3000CB379 /* LaunchScreen.storyboard in Resources */,
 				6F04948E1EC57AB3000CB379 /* Assets.xcassets in Resources */,
 				6F04948C1EC57AB3000CB379 /* Main.storyboard in Resources */,
+				6F0494B51EC57AB3000CB379 /* plistData.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
